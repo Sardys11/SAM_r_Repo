@@ -7,6 +7,8 @@ myMean <- function(assignment2) { return(sum(assignment2)/length(assignment2)) }
 result <- myMean(assignment2)
 print(result)
 
+mean(assignment2)
+
 # How can improve this function??
 # Improved myMean() function with error handling and NA handling
 
