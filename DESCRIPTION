@@ -1,0 +1,15 @@
+Package: Friedman
+Type: Package
+Title: Tools for Data Visualization and Analysis in R
+Version: 0.0.0.9000
+Authors@R: person("Sardys", "Avile-Martinez", email = "sardys.avile@example.com", role = c("aut", "cre"))
+Description: This package provides functions that simplify data visualization 
+    and statistical analysis using popular R packages such as ggplot2 and plyr. 
+    It is designed to help users quickly explore, summarize, and visualize 
+    datasets through reusable tools and clear visual output. Ideal for students 
+    and analysts working on data-driven projects.
+Depends: R (>= 3.1.2)
+Imports: ggplot2, plyr
+License: CC0
+LazyData: true
+
